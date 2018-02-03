@@ -1,14 +1,15 @@
-<script language="javascript">
-  document.write("085311962999"); 
-  document.write("081314145999"); 
-  document.write("081321537999"); 
-  document.write("081321538999"); 
-  document.write("085749964999"); 
-  document.write("085749972999"); 
-  document.write("085707255999"); 
-  document.write("085707084999"); 
-  document.write("087870797999"); 
-  document.write("089523374999"); 
-  document.write("089610835999"); 
-  document.write("08985888823");
-</script>
+<?php 
+echo "085311962999";
+echo ("085311962999"); 
+echo ("081314145999"); 
+echo ("081321537999"); 
+echo("081321538999"); 
+  echo ("085749964999"); 
+  echo ("085749972999"); 
+  echo ("085707255999"); 
+  echo ("085707084999"); 
+  echo ("087870797999"); 
+  echo ("089523374999"); 
+  echo ("089610835999"); 
+  echo ("08985888823");
+ ?>
