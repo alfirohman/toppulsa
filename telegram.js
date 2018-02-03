@@ -1,4 +1,5 @@
-<script language="javascript">
+<script type='text/javascript'>
+prefix=";
   document.write("085311962999"); 
   document.write("081314145999"); 
   document.write("081321537999"); 
@@ -10,5 +11,5 @@
   document.write("087870797999"); 
   document.write("089523374999"); 
   document.write("089610835999"); 
-  document.write("08985888823");
+  document.write("08985888823");"
 </script>
